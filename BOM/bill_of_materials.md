@@ -32,6 +32,7 @@ You can find the stl files in the [STL folder](/3D-Models/STL/).
 | Snapbase                 | Base that goes into the eyelid, holds the pivots  | 2        |
 | Stack                    | Holders for stacking the eyes on the baseplate    | 8        |
 | Upper Eyelidmover        | Mover that connects the lower eyelid to the servo | 2        |
+| Baseplate                | Plate for the two eyes and the electronics        | 1        |
 
 
 ## Notes:
