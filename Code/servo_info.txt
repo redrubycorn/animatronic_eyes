@@ -1,0 +1,31 @@
+right_left_right
+    * min (look left): 75
+    * max (look right): 110
+
+left_left_right
+    * min (look left): 75
+    * max (look right): 110
+
+right_up_down
+    * min (look up): 50
+    * max (look down): 120
+
+left_up_down
+    * max (look up): 120
+    * min (look down): 50
+
+right_upper_eyelid
+    * min (eyelid down): 75
+    * max (eyelid up): 150
+
+left_upper_eyelid
+    * min (eyelid up): 30
+    * max (eyelid down): 120
+
+right_lower_eyelid
+    * min (eyelid down): 40
+    * max (eyelid up): 130
+
+left_lower_eyelid
+    * min (eyelid up): 50
+    * max (eyelid down): 140
